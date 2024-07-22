@@ -1,0 +1,12 @@
+C:\Users\Hamee\source\repos\DrivingProject\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Hamee\source\repos\DrivingProject\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Hamee\source\repos\DrivingProject\DataLayer\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Hamee\source\repos\DrivingProject\DataLayer\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hamee\source\repos\DrivingProject\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Hamee\source\repos\DrivingProject\DataLayer\obj\Debug\DataLayer.pdb
+D:\SeleconValley\DrivingProject\DataLayer\bin\Debug\DataLayer.dll
+D:\SeleconValley\DrivingProject\DataLayer\bin\Debug\DataLayer.pdb
+D:\SeleconValley\DrivingProject\DataLayer\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\SeleconValley\DrivingProject\DataLayer\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\SeleconValley\DrivingProject\DataLayer\obj\Debug\DataLayer.dll
+D:\SeleconValley\DrivingProject\DataLayer\obj\Debug\DataLayer.pdb

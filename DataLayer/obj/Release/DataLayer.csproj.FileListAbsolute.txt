@@ -1,0 +1,6 @@
+C:\Users\Hamee\source\repos\DrivingProject\DataLayer\bin\Release\DataLayer.dll
+C:\Users\Hamee\source\repos\DrivingProject\DataLayer\bin\Release\DataLayer.pdb
+C:\Users\Hamee\source\repos\DrivingProject\DataLayer\obj\Release\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Hamee\source\repos\DrivingProject\DataLayer\obj\Release\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hamee\source\repos\DrivingProject\DataLayer\obj\Release\DataLayer.dll
+C:\Users\Hamee\source\repos\DrivingProject\DataLayer\obj\Release\DataLayer.pdb

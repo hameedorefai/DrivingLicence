@@ -1,0 +1,9 @@
+C:\Users\Hamee\source\repos\DrivingProject\BusinessLayer\bin\Release\BusinessLayer.dll
+C:\Users\Hamee\source\repos\DrivingProject\BusinessLayer\bin\Release\BusinessLayer.pdb
+C:\Users\Hamee\source\repos\DrivingProject\BusinessLayer\bin\Release\DataLayer.dll
+C:\Users\Hamee\source\repos\DrivingProject\BusinessLayer\bin\Release\DataLayer.pdb
+C:\Users\Hamee\source\repos\DrivingProject\BusinessLayer\obj\Release\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Hamee\source\repos\DrivingProject\BusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hamee\source\repos\DrivingProject\BusinessLayer\obj\Release\BusinessLayer.csproj.CopyComplete
+C:\Users\Hamee\source\repos\DrivingProject\BusinessLayer\obj\Release\BusinessLayer.dll
+C:\Users\Hamee\source\repos\DrivingProject\BusinessLayer\obj\Release\BusinessLayer.pdb
