@@ -45,3 +45,6 @@ The system offers powerful management features to ensure smooth operations:
 - **Framework**: .NET Framework (C#)  
 - **Database**: Microsoft SQL Server with ADO.NET  
 - **User Interface**: Windows Forms (WinForms)
+
+Overall, this system provides a comprehensive solution for managing all aspects of driving license services, and my work in the Data Access, Business Logic, and database development played a crucial role in ensuring its functionality and success.
+
